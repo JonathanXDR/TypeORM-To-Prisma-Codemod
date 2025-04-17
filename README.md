@@ -2,6 +2,9 @@
 
 This codemod helps you migrate your NestJS application from TypeORM to Prisma ORM with minimal manual effort. It automatically transforms repository patterns, query operations, and module structures following best practices from the Prisma team.
 
+> [!WARNING]  
+> This repository is under active development and not yet ready for production use.
+
 ## Features
 
 - 🔄 Transforms TypeORM repository patterns to Prisma Client queries
